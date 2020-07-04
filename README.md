@@ -1,2 +1,1 @@
-# harvey.githud.io
 resume
